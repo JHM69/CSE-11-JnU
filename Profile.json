@@ -1,5 +1,26 @@
 [{
-        "name": "Important Notice (Jan 2, 2020)",
-        "image": "https://jhm69.github.io/CSE-11-JnU/notice_1.jpg"
+		"name": "Tom Hardy",
+		"image": "https://api.androidhive.info/json/images/tom_hardy.jpg",
+		"phone": "(541) 754-3010"
+	},
+	{
+		"name": "Johnny Depp",
+		"image": "https://api.androidhive.info/json/images/johnny.jpg",
+		"phone": "(452) 839-1210"
+	},
+	{
+		"name": "Tom Cruise",
+		"image": "https://api.androidhive.info/json/images/tom_cruise.jpg",
+		"phone": "(541) 453-2311"
+	},
+	{
+		"name": "Keira Knightley",
+		"image": "https://api.androidhive.info/json/images/keira.jpg",
+		"phone": "(535) 324-4334"
+	},
+	{
+		"name": "Robert De Niro",
+		"image": "https://api.androidhive.info/json/images/robert_de.jpg",
+		"phone": "(767) 544-8867"
 	}
 ]
