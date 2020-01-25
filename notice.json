@@ -1,21 +1,26 @@
-[{
-		"name": "CR Rakib ",
-		"image": "https://jhm69.github.io/CSE-11-JnU/munajat.jpeg",
-		"phone": "Salarputera Munajat dhor🤲. Sir ke bolsi exam pichaye dite.😎"
-	},
-	{
-		"name": "CR Shima",
-		"image": "https://jhm69.github.io/CSE-11-JnU/images.png",
-		"phone": "Boro Bhaira bolse class er por sobaike thakte. Ajke hoyto abar khawabe😍"
-	},
+[       
         {
-		"name": "CR Rakib",
-		"image": "https://jhm69.github.io/CSE-11-JnU/images.png",
-		"phone": "Class Update: \n
-		 8:30-10:00~VC Room~C Programing~Zulfiqar Sir\n
-		 10:10-11:00~Room 721~Calculus I~Aiyub Sir"
-		
+        "name": "Jahangir",
+        "image": "",
+        "phone": "Hello Good People"
+        },
+        {
+	"name": "CR Rakib",
+	"image": "https://jhm69.github.io/CSE-11-JnU/munajat.jpeg",
+	"phone": "Salarputera Munajat dhor🤲. Sir ke bolsi exam pichaye dite.😎"
+	},
+
+	{
+	"name": "CR Shima",
+	"image": "https://jhm69.github.io/CSE-11-JnU/images.png",
+	"phone": "Boro Bhaira bolse class er por sobaike thakte. Ajke hoyto abar khawabe😍"
+	},
+
+        {
+	"name": "CR Rakib",
+	"image": "https://jhm69.github.io/CSE-11-JnU/images.png",
+	"phone": "Class Update: \n
+	 8:30-10:00~VC Room~C Programing~Zulfiqar Sir\n
+	 10:10-11:00~Room 721~Calculus I~Aiyub Sir"
 	}
-
-
 ]
