@@ -1,9 +1,4 @@
 [{
-        "name": "Important Notice (Jan 2, 2020)",			"name": "Tom Hardy",
-        "image": "https://jhm69.github.io/CSE-11-JnU/notice_1.jpg"			"image": "https://api.androidhive.info/json/images/tom_hardy.jpg",
-	"phone": "(541) 754-3010"
-	},
-	{
 		"name": "Johnny Depp",
 		"image": "https://api.androidhive.info/json/images/johnny.jpg",
 		"phone": "(452) 839-1210"
@@ -22,5 +17,5 @@
 		"name": "Robert De Niro",
 		"image": "https://api.androidhive.info/json/images/robert_de.jpg",
 		"phone": "(767) 544-8867"
-	}		}
-]	]
+	}		
+]
