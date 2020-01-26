@@ -1,41 +1,42 @@
 [       
-{
-        "name": "CR Shima",
-        "date": "8:41 PM. Jan 26, 2020",
-        "image": "https://jhm69.github.io/CSE-11-JnU/class_update.png ",
-        "phone": "Class update (27.01.2020 Monday)\n
+         {
+         "name": "Jahangir Hossain",
+         "date": "8:17 PM. Jan 25, 2020",
+         "image": "https://jhm69.github.io/CSE-11-JnU/welcome.png",
+         "phone": "Hello Good People. Welcome to this App. This is a Beta version of the original app. Here I used Github as Back-and server for this app. So whenever I update my json files on Github, only then this notice and files will be updated. Thank you. I'm still working on it. So Pray. \nGithub Repository link: https://github.com/JHM69/CSE-11-JnU"
+         },
+
+         {
+         "name": "CR Shima",
+         "date": "8:41 PM. Jan 26, 2020",
+         "image": "https://jhm69.github.io/CSE-11-JnU/class_update.png ",
+         "phone": "Class update (27.01.2020 Monday)\n
 8:30-9.55 - Electrical - Ujjal sir (VC room )\n
 10-10.55 - Programming language - Zulfiker sir (class room 721)\n
 11-11.55 - Physics - Momin sir (class room 721)\n
 12.30-1.30 - English - Mukul sir (class room 721)️"  
-        },
+         },
 
-        {
-        "name": "Jahangir Hossain",
-        "date": "8:17 PM. Jan 25, 2020",
-        "image": "https://jhm69.github.io/CSE-11-JnU/read.png",
-        "phone": "Hello Good People. Here I used Rest API for parsing Json and Github for json server. Whenever I update my notice.json file on github then this notice page will update. Github Repository link: https://github.com/JHM69/CSE-11-JnU"
-        },
-        {
-	"name": "CR Rakib",
-    "date": "4:56 PM. Jan 25, 2020",
-	"image": "https://jhm69.github.io/CSE-11-JnU/attention.png",
-	"phone": "Salarputera Munajat dhor🤲. Sir ke bolsi exam pichaye dite.😎"
-	},
+         {
+	     "name": "CR Rakib",
+         "date": "4:56 PM. Jan 25, 2020",
+	     "image": "https://jhm69.github.io/CSE-11-JnU/attention.png",
+	     "phone": "Salarputera Munajat dhor🤲. Sir ke bolsi exam pichaye dite.😎"
+	     },
 
-	{
-	"name": "CR Shima",
-    "date": "3:35 PM. Jan 25, 2020",
-	"image": "https://jhm69.github.io/CSE-11-JnU/attention.png",
-	"phone": "Boro Bhaira bolse class er por sobaike thakte. Ajke hoyto abar khawabe😍"
-	},
+	     {
+	     "name": "CR Shima",
+         "date": "3:35 PM. Jan 25, 2020",
+	     "image": "https://jhm69.github.io/CSE-11-JnU/attention.png",
+	     "phone": "Boro Bhaira bolse class er por sobaike thakte. Ajke hoyto abar khawabe😍"
+	     },
 
-        {
-	"name": "CR Rakib",
-    "date": "2:07 PM. Jan 25, 2020",
-	"image": "https://jhm69.github.io/CSE-11-JnU/class_update.png",
-	"phone": "Class Update: \n
-	 8:30-10:00~VC Room~C Programing~Zulfiqar Sir\n
-	 10:10-11:00~Room 721~Calculus I~Aiyub Sir"
-	}
+         {
+	     "name": "CR Rakib",
+         "date": "2:07 PM. Jan 25, 2020",
+	     "image": "https://jhm69.github.io/CSE-11-JnU/class_update.png",
+	     "phone": "Class Update:(Test)\n
+8:30-10:00~VC Room~C Programing~Zulfiqar Sir\n
+10:10-11:00~Room 721~Calculus I~Aiyub Sir"
+	      }
 ]
