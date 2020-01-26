@@ -1,4 +1,18 @@
-[{
+[
+        {
+        	"image": "https://jhm69.github.io/CSE-11-JnU/pdf.png",
+		"file": "Electrical Circuit Lab 04",
+		"date": "7:50. Jan 26, 2020",
+		"link": "https://jhm69.github.io/CSE-11-JnU/EcLab04.pdf"
+	},
+
+       {
+        	"image": "https://jhm69.github.io/CSE-11-JnU/pdf.png",
+		"file": "Electrical Circuit Lab 03",
+		"date": "7:49. Jan 26, 2020",
+		"link": "https://jhm69.github.io/CSE-11-JnU/EcLab03.pdf"
+	},
+       {
         	"image": "https://jhm69.github.io/CSE-11-JnU/pdf.png",
 		"file": "CSE Syllabus 2020-2021",
 		"date": "4:32. Jan 26, 2020",
