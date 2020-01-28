@@ -50,3 +50,117 @@
 }
 
 ]
+[
+ {    
+"img":"https://jhm69.github.io/CSE-11-JnU/z_jahangir.png",
+"name":"Jahangir Hossain",
+"nick":"Jahangir",
+"number":"01635191148",
+"birth":"05/04/2000",
+"blood":"O+",
+"home":"Nangalkot, Cumilla",
+"present":"KoltaBazar, Old Dacca", 
+"fb":"https://facebook.com/jhm69", 
+"messenger":"https://m.me/jhm69"
+},
+
+ {    
+"img":"https://jhm69.github.io/CSE-11-JnU/z_roudra.png",
+"name":"Asir Shahriar Roudra",
+"nick":"Roudra",
+"number":"01625780323",
+"birth":"3/27/2000",
+"blood":"O+",
+"home":"Bajitpur,Kishoreganj",
+"present":"Dhupkhula,Gendaria,Dhaka", 
+"fb":"https://m.facebook.com/Roudra323", 
+"messenger":"https://m.me/Roudra323"
+}, 
+ {    
+"img":"https://jhm69.github.io/CSE-11-JnU/z_siamm.png",
+"name":"Siam Shahriar",
+"nick":"Siam",
+"number":"01817632080",
+"birth":"12/2/1999",
+"blood":"AB+",
+"home":"Cumilla",
+"present":"32/2, Moneshwr road, Hazaribag,Dhaka", 
+"fb":"https://facebook.com/xox.siam.10", 
+"messenger":"https://m.me/xox.siam.10"
+}, 
+ {    
+"img":"https://jhm69.github.io/CSE-11-JnU/z_sajib.png",
+"name":"Md. Sajib Hasan",
+"nick":"Sajib",
+"number":"01903106521",
+"birth":"10/26/2000",
+"blood":"B+",
+"home":"Chuadanga",
+"present":"Kagzitola,Sutrapur,Dhaka", 
+"fb":"https://www.facebook.com/profile.php?id=100016115131283", 
+"messenger":"https://.me/Hasan "
+},
+
+{    
+"img":"https://jhm69.github.io/CSE-11-JnU/female.png",
+"name":"Farhana Akter Suci",
+"nick":"Suci",
+"number":"01726409636",
+"birth":"07/09/2001",
+"blood":"B+",
+"home":"Noakhali",
+"present":"Lokhibajar, Dhaka", 
+"fb":"https://www.facebook.com/farhanasuci.fasuci", 
+"messenger":"https://m.me/farhanasuci.fasuci"
+},
+
+"img":"https://jhm69.github.io/CSE-11-JnU/z_siam.png",
+"name":"Md Mahir Musleh Siam",
+"nick":"Siam",
+"number":"01861500194",
+"birth":"01/01/1999",
+"blood":"B+",
+"home":"Mymensingh",
+"present":"New Eskaton,Dhaka", 
+"fb":"https://www.facebook.com/profile.php?id=100007472986811", 
+"messenger":"https://m.me/100007472986811"
+},
+{
+"img":"https://jhm69.github.io/CSE-11-JnU/z_zakir.png",
+"name":"Md. Zakir Hossain",
+"nick":"Zakir",
+"number":"01628935825",
+"birth":"4/23/2001",
+"blood":"A+",
+"home":"Tangail",
+"present":"Kagojitola,Sutrapur,Dhaka ", 
+"fb":"https://www.facebook.com/profile.php?id=100043050171046", 
+"messenger":"https://m.me/100043050171046"
+},
+{
+"img":"https://jhm69.github.io/CSE-11-JnU/z_farhan.png",
+"name":"Md. Farhan Masud Shohag",
+"nick":"Farhan",
+"number":"01705868354",
+"birth":"2/4/2001",
+"blood":"B+",
+"home":"Panchagarh",
+"present":"Wari, Dhaka", 
+"fb":"https://www.facebook.com/farhan.shohag0", 
+"messenger":"https://m.me/farhan.shohag0"
+},
+
+{
+"img":"https://jhm69.github.io/CSE-11-JnU/z_mahib.png",
+"name":"Tawhid Mirza Mahib",
+"nick":"Mahib",
+"number":"01521584484",
+"birth":"9/19/2001",
+"blood":"AB+",
+"home":"Dhaka",
+"present":"Imamgonj,Dhaka", 
+"fb":"https://www.facebook.com/mahib.tawhid", 
+"messenger":"https://m.me/mahib.tawhid"
+}
+
+]
