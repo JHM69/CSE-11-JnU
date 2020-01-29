@@ -116,10 +116,10 @@
 	"nick": "Puja",
 	"number": "01715085087",
 	"birth": "10/19/2002",
-	"blood": " ",
+	"blood": "-",
 	"home": "Mymenshingh",
-	"present": " ",
-	"fb": " ",
+	"present": "Not Shown",
+	"fb": "no data",
 	"messenger": "Hridita Debnath" 
 },
 
@@ -132,9 +132,9 @@
 	"blood": "A+",
 	"home": "Kurigram,Rangpur",
 	"present": "Farmgate,Dhaka",
-	"fb": "",
-	"messenger": "Shohrab hossen" 
-}, 
+	"fb": "no data",
+	"messenger": "no data" 
+},
 
 {
 	"img": "https://jhm69.github.io/CSE-11-JnU/z_nahid.png",
@@ -148,6 +148,10 @@
 	"fb": "https://www.facebook.com/mdnahidhasan.1999",
 	"messenger": "https://m.me/mdnahidhasan.1999" 
 }
+
+
+
+
 
 
 ]
