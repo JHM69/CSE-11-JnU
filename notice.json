@@ -3,20 +3,20 @@
          "name": "Jahangir Hossain",
          "date": "11:20 PM. Jan 26, 2020",
          "image": "https://jhm69.github.io/CSE-11-JnU/welcome.png",
-         "phone": "Hello Good People. Welcome to this App. This is a Beta version of the original app. Here I used Github as Back-and server for this app. So whenever I update my json files on Github, only then this notice and files will be updated. Thank you. I'm still working on it. So Pray. Github Repository link: https://github.com/JHM69/CSE-11-JnU"
+         "text": "Hello Good People. Welcome to this App. This is a Beta version of the original app. Here I used Github as Back-and server for this app. So whenever I update my json files on Github, only then this notice and files will be updated. Thank you. I'm still working on it. So Pray. Github Repository link: https://github.com/JHM69/CSE-11-JnU"
          },
          {
          "name": "Zulfiker Mahmud Sir",
          "date": "4:04 PM. Jan 29, 2020",
          "image": "https://jhm69.github.io/CSE-11-JnU/contest.png",
-         "phone": "আগামী শুক্রবার দুপুর ২ টায় নতুন ল্যাবে সকল ব্যাচের অংশগ্রহণে  প্রোগ্রামিং কন্টেস্ট হবে।  সকলের উপস্থিতি একান্ত কাম্য। যারা প্রোগ্রামিং এর সাথে রিলেটেড তাদের সবাইকে উপস্থিত থাকার জন্য বিশেষভাবে অনুরোধ করছি। নিয়মিত উপস্থিতি আমাদের ভবিষ্যৎ কর্মপন্থা নির্ধারনে সহায়তা করবে। ধন্যবাদ। বিঃদ্রঃ প্রব্লেম সেটার ডিপার্টমেন্টের বাইরের। সুতরাং সব ব্যাচ অংশগ্রহন করবে। "},
+         "text": "আগামী শুক্রবার দুপুর ২ টায় নতুন ল্যাবে সকল ব্যাচের অংশগ্রহণে  প্রোগ্রামিং কন্টেস্ট হবে।  সকলের উপস্থিতি একান্ত কাম্য। যারা প্রোগ্রামিং এর সাথে রিলেটেড তাদের সবাইকে উপস্থিত থাকার জন্য বিশেষভাবে অনুরোধ করছি। নিয়মিত উপস্থিতি আমাদের ভবিষ্যৎ কর্মপন্থা নির্ধারনে সহায়তা করবে। ধন্যবাদ। বিঃদ্রঃ প্রব্লেম সেটার ডিপার্টমেন্টের বাইরের। সুতরাং সব ব্যাচ অংশগ্রহন করবে। "},
          
          {
-	     "name": "CR Rakib",
+         "name": "CR Rakib",
          "date": "11:56 PM. Jan 25, 2020",
-	     "image": "https://jhm69.github.io/CSE-11-JnU/attention.png",
-	     "phone": "কালকে ১.৩০ থেকে Competitive Programing এর ক্লাস হবে। ডিপার্টমেন্ট এর প্রোগ্রামার বড় ভাইরা থাকবে। সবাইকে উপস্থিত থাকার নির্দেশ দেওয়া হয়েছে।\nধন্যবাদ❤"
-	     },
+	 "image": "https://jhm69.github.io/CSE-11-JnU/attention.png",
+	 "text": "কালকে ১.৩০ থেকে Competitive Programing এর ক্লাস হবে। ডিপার্টমেন্ট এর প্রোগ্রামার বড় ভাইরা থাকবে। সবাইকে উপস্থিত থাকার নির্দেশ দেওয়া হয়েছে।\nধন্যবাদ❤"
+	 },
 
 
 
@@ -24,7 +24,7 @@
          "name": "CR Shima",
          "date": "8:41 PM. Jan 26, 2020",
          "image": "https://jhm69.github.io/CSE-11-JnU/class_update.png ",
-         "phone": "Class update (27.01.2020 Monday)\n
+         "text": "Class update (27.01.2020 Monday)\n
 8:30-9.55 |Electrical| Ujjal sir |VC room|\n
 10-10.55 |C Programming| Zulfiker sir |Room 721|\n
 11-11.55 |Physics| Momin sir |Room 721|\n
@@ -32,24 +32,24 @@
          },
 
          {
-	     "name": "CR Rakib",
+	 "name": "CR Rakib",
          "date": "4:56 PM. Jan 25, 2020",
-	     "image": "https://jhm69.github.io/CSE-11-JnU/attention.png",
-	     "phone": "Salarputera Munajat dhor🤲. Sir ke bolsi exam pichaye dite.😎"
+	 "image": "https://jhm69.github.io/CSE-11-JnU/attention.png",
+	 "text": "Salarputera Munajat dhor🤲. Sir ke bolsi exam pichaye dite.😎"
 	     },
 
 	     {
-	     "name": "CR Shima",
+	 "name": "CR Shima",
          "date": "3:35 PM. Jan 25, 2020",
-	     "image": "https://jhm69.github.io/CSE-11-JnU/attention.png",
-	     "phone": "Boro Bhaira bolse class er por sobaike thakte. Ajke hoyto abar khawabe😍"
+	 "image": "https://jhm69.github.io/CSE-11-JnU/attention.png",
+	 "text": "Boro Bhaira bolse class er por sobaike thakte. Ajke hoyto abar khawabe😍"
 	     },
 
          {
-	     "name": "CR Rakib",
+	 "name": "CR Rakib",
          "date": "2:07 PM. Jan 25, 2020",
-	     "image": "https://jhm69.github.io/CSE-11-JnU/class_update.png",
-	     "phone": "Class Update:(Test)\n
+	 "image": "https://jhm69.github.io/CSE-11-JnU/class_update.png",
+	 "text": "Class Update:(Test)\n
 8:30-10:00~VC Room~C Programing~Zulfiqar Sir\n
 10:10-11:00~Room 721~Calculus I~Aiyub Sir"
 	      }
