@@ -1,4 +1,19 @@
-[{
+[
+
+    {
+	"img": "https://jhm69.github.io/CSE-11-JnU/female.png",
+	"name": "Mosammat Shima Aktar",
+	"nick": "cr shima",
+	"number": "01580298753",
+	"birth": "12/20/2000",
+	"blood": "A+",
+	"home": "Mymensingh",
+	"present": "Not Shown",
+	"fb": "https://www.facebook.com/profile.php?id=100008712845190",
+	"messenger": "https://m.me/100008712845190"
+	},
+
+    {
 	"img": "https://jhm69.github.io/CSE-11-JnU/z_jahangir.png",
 	"name": "Jahangir Hossain",
 	"nick": "Jahangir",
@@ -60,8 +75,8 @@
 	"present": "Lokhibajar, Dhaka",
 	"fb": "https://www.facebook.com/farhanasuci.fasuci",
 	"messenger": "https://m.me/farhanasuci.fasuci"
-},
-{
+    },
+    {
 	"img": "https://jhm69.github.io/CSE-11-JnU/z_siam.png",
 	"name": "Mahir Musleh Siam",
 	"nick": "Siam",
@@ -72,8 +87,8 @@
 	"present": "New Eskaton,Dhaka",
 	"fb": "https://www.facebook.com/profile.php?id=100007472986811",
 	"messenger": "https://m.me/100007472986811"
-}, 
-{
+    }, 
+    {
 	"img": "https://jhm69.github.io/CSE-11-JnU/z_zakir.png",
 	"name": "Md. Zakir Hossain",
 	"nick": "Zakir",
@@ -84,8 +99,8 @@
 	"present": "Kagojitola,Sutrapur,Dhaka ",
 	"fb": "https://www.facebook.com/profile.php?id=100043050171046",
 	"messenger": "https://m.me/100043050171046"
-}, 
-{
+    }, 
+    {
 	"img": "https://jhm69.github.io/CSE-11-JnU/z_farhan.png",
 	"name": "Farhan Shohag",
 	"nick": "Farhan",
@@ -96,9 +111,9 @@
 	"present": "Wari, Dhaka",
 	"fb": "https://www.facebook.com/farhan.shohag0",
 	"messenger": "https://m.me/farhan.shohag0"
-},
+    },
 
-{
+    {
 	"img": "https://jhm69.github.io/CSE-11-JnU/z_mahib.png",
 	"name": "Tawhid Mirza Mahib",
 	"nick": "Mahib",
@@ -109,8 +124,8 @@
 	"present": "Imamgonj,Dhaka",
 	"fb": "https://www.facebook.com/mahib.tawhid",
 	"messenger": "https://m.me/mahib.tawhid"
-},
-{
+    },
+    {
     "img": "https://jhm69.github.io/CSE-11-JnU/female.png",
 	"name": "Hridita Debnath",
 	"nick": "Puja",
@@ -121,9 +136,8 @@
 	"present": "Not Shown",
 	"fb": "no data",
 	"messenger": "Hridita Debnath" 
-},
-
-{
+    },
+    {
 	"img": "https://jhm69.github.io/CSE-11-JnU/male.png",
 	"name": "Shohrab hossen",
 	"nick": "Sipon",
@@ -134,9 +148,9 @@
 	"present": "Farmgate,Dhaka",
 	"fb": "no data",
 	"messenger": "no data" 
-},
+    },
 
-{
+    {
 	"img": "https://jhm69.github.io/CSE-11-JnU/z_nahid.png",
 	"name": "Nahid Hasan",
 	"nick": "Nahid",
@@ -147,11 +161,5 @@
 	"present": "Kajogitola, Dhaka",
 	"fb": "https://www.facebook.com/mdnahidhasan.1999",
 	"messenger": "https://m.me/mdnahidhasan.1999" 
-}
-
-
-
-
-
-
+    }
 ]
