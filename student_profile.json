@@ -1,9 +1,26 @@
 [
 
+
+    {
+	"img": "https://jhm69.github.io/CSE-11-JnU/male.png",
+	"name": "Rakib Hassab Pial",
+	"nick": "cr rakib",
+	"number": "01580298753",
+	"birth": "12/20/2000",
+	"blood": "A+",
+	"home": "Munsiganj",
+	"present": "Armanitola, Dhaka",
+	"fb": "https://www.facebook.com/profile.php?id=100008712845190",
+	"messenger": "https://m.me/100008712845190"
+	},
+
+
+
+
     {
 	"img": "https://jhm69.github.io/CSE-11-JnU/female.png",
 	"name": "Mst Shima Aktar",
-	"nick": "cr shima",
+	"nick": "mesiar",
 	"number": "01580298753",
 	"birth": "12/20/2000",
 	"blood": "A+",
@@ -18,7 +35,7 @@
 	"name": "Jahangir Hossain",
 	"nick": "Jahangir",
 	"number": "01635191148",
-	"birth": "05/04/2000",
+	"birth": "5/4/2000",
 	"blood": "O+",
 	"home": "Nangalkot, Cumilla",
 	"present": "KoltaBazar, Old Dacca",
