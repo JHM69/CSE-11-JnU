@@ -1,49 +1,56 @@
 [
 {
-                "image": "https://jhm69.github.io/CSE-11-JnU/pdf.png",
-		"file": "English Grammar In Use.pdf",
-		"date": "3:14 PM. Jan 27, 2020",
-		"link": "https://doc-0c-5s-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/mtk0753g7n1ja44nrvlfpgt11i2nep84/1580320800000/12094181070684584659/*/126VqRJo9ckv7ulAgKj9gsr5ti9EeVS7z?e=download"
-	},
+        "image": "https://jhm69.github.io/CSE-11-JnU/pdf.png",
+	"file": "Routine Updated and Re-designed.pdf",
+	"date": "10:52 PM. Jan 30, 2020",
+	"link": "https://jhm69.github.io/CSE-11-JnU/updated_routine.pdf"	
+},
+
+{
+        "image": "https://jhm69.github.io/CSE-11-JnU/pdf.png",
+	"file": "English Grammar In Use.pdf",
+	"date": "3:14 PM. Jan 27, 2020",
+	"link": "https://doc-0c-5s-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/mtk0753g7n1ja44nrvlfpgt11i2nep84/1580320800000/12094181070684584659/*/126VqRJo9ckv7ulAgKj9gsr5ti9EeVS7z?e=download"
+},
 
 
-    {
+{
         "image": "https://jhm69.github.io/CSE-11-JnU/code.png",
-		"file": "Bank Notes Solution.c",
-		"date": "8:04 PM. Jan 26, 2020",
-		"link": "https://jhm69.github.io/CSE-11-JnU/bank_note.c"
+	"file": "Bank Notes Solution.c",
+	"date": "8:04 PM. Jan 26, 2020",
+	"link": "https://jhm69.github.io/CSE-11-JnU/bank_note.c"
 	},
 
    {
         "image": "https://jhm69.github.io/CSE-11-JnU/html.png",
-		"file": "Simplified syllabus.html",
-		"date": "8:04 PM. Jan 26, 2020",
-		"link": "https://jhm69.github.io/CSE-11-JnU/slybs.html"
+	"file": "Simplified syllabus.html",
+	"date": "8:04 PM. Jan 26, 2020",
+	"link": "https://jhm69.github.io/CSE-11-JnU/slybs.html"
 	},
 
         {
         "image": "https://jhm69.github.io/CSE-11-JnU/pdf.png",
-		"file": "Electrical Circuit Lab 04.pdf",
-		"date": "7:50 PM. Jan 26, 2020",
-		"link": "https://jhm69.github.io/CSE-11-JnU/EcLab04.pdf"
+	"file": "Electrical Circuit Lab 04.pdf",
+	"date": "7:50 PM. Jan 26, 2020",
+	"link": "https://jhm69.github.io/CSE-11-JnU/EcLab04.pdf"
 	},
 
        {
         "image": "https://jhm69.github.io/CSE-11-JnU/pdf.png",
-		"file": "Electrical Circuit Lab 03.pdf",
-		"date": "7:49 PM. Jan 26, 2020",
-		"link": "https://jhm69.github.io/CSE-11-JnU/EcLab03.pdf"
+	"file": "Electrical Circuit Lab 03.pdf",
+	"date": "7:49 PM. Jan 26, 2020",
+	"link": "https://jhm69.github.io/CSE-11-JnU/EcLab03.pdf"
 	},
        {
         "image": "https://jhm69.github.io/CSE-11-JnU/pdf.png",
-		"file": "CSE Syllabus 2020-2021.pdf",
-		"date": "4:32 PM. Jan 26, 2020",
-		"link": "https://jhm69.github.io/CSE-11-JnU/syllabus.pdf"
+	"file": "CSE Syllabus 2020-2021.pdf",
+	"date": "4:32 PM. Jan 26, 2020",
+	"link": "https://jhm69.github.io/CSE-11-JnU/syllabus.pdf"
 	},
 	{
-		"image": "https://jhm69.github.io/CSE-11-JnU/pdf.png",
-		"file": "CSE Syllabus 2020-2021.pdf",
-		"date": "4:32 PM. Jan 26, 2020",
-		"link": "https://jhm69.github.io/CSE-11-JnU/syllabus.pdf"
+	"image": "https://jhm69.github.io/CSE-11-JnU/pdf.png",
+	"file": "CSE Syllabus 2020-2021.pdf",
+	"date": "4:32 PM. Jan 26, 2020",
+	"link": "https://jhm69.github.io/CSE-11-JnU/syllabus.pdf"
 	}
 ]
