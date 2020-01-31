@@ -1,18 +1,95 @@
 [
 {
     "img": "https://jhm69.github.io/CSE-11-JnU/male.png",
-	"name": "Teacher 1",
-	"as": "Lecturar",
-	"mail": "something@gmail.com",
-	"link": "hthkkvxgk fkoug"
+	"name": "Dr. Uzzal Kumar Acharjee",
+	"as": "Professor",
+	"mail": "uzzal@cse.jnu.ac.bd",
+	"link": "http://jnu.ac.bd/profile/portal/web/1"
+},
+{
+    "img": "https://jhm69.github.io/CSE-11-JnU/male.png",
+	"name": "Dr. Mohammed Nasir Uddin",
+	"as": "Professor & Chairman",
+	"mail": "nasir@cse.jnu.ac.bd",
+	"link": "http://jnu.ac.bd/profile/portal/web/250"
+}, 
+{
+    "img": "https://jhm69.github.io/CSE-11-JnU/male.png",
+	"name": "Dr. Md. Masbaul Alam Polash",
+	"as": "Associate Professor",
+	"mail": "polash@cse.jnu.ac.bd",
+	"link": "http://jnu.ac.bd/profile/portal/web/255"
+},
+{
+    "img": "https://jhm69.github.io/CSE-11-JnU/male.png",
+	"name": "Dr. Md. Abu Layek",
+	"as": "Associate Professor",
+	"mail": "abulayek@yahoo.com",
+	"link": "http://jnu.ac.bd/profile/portal/web/254"
+}, 
+ 
+{
+    "img": "https://jhm69.github.io/CSE-11-JnU/male.png",
+	"name": "Dr. Md. Zulfiker Mahmud",
+	"as": "Associate Professor",
+	"mail": "zulfiker@cse.jnu.ac.bd",
+	"link": "http://jnu.ac.bd/profile/portal/web/239"
 },
 {
     "img": "https://jhm69.github.io/CSE-11-JnU/female.png",
-	"name": "Teacher 2",
-	"as": "Lecturar",
-	"mail": "something@gmail.com",
-	"link": "hthkkvxgk fkoug"
+	"name": "Mehnaz Tabassum",
+	"as": "Assistant Professor",
+	"mail": "mehnaz@cse.jnu.ac.bd",
+	"link": "http://jnu.ac.bd/profile/portal/web/256"
+}, 
+{
+    "img": "https://jhm69.github.io/CSE-11-JnU/male.png",
+	"name": "Md. Arafat Hossain Khan *",
+	"as": "Assistant Professor",
+	"mail": "arafat@cse.jnu.ac.bd",
+	"link": "http://jnu.ac.bd/profile/portal/web/257"
+}, 
+ 
+{
+    "img": "https://jhm69.github.io/CSE-11-JnU/male.png",
+	"name": "Sajeeb Saha",
+	"as": "Assistant Professor",
+	"mail": "sajeeb@cse.jnu.ac.bd",
+	"link": "http://jnu.ac.bd/profile/portal/web/258"
+},
+{
+    "img": "https://jhm69.github.io/CSE-11-JnU/male.png",
+	"name": "Md. Aminul Islam *",
+	"as": "Assistant Professor",
+	"mail": "aminul@cse.jnu.ac.bd",
+	"link": "http://jnu.ac.bd/profile/portal/web/259"
+}, 
+{
+    "img": "https://jhm69.github.io/CSE-11-JnU/female.png",
+	"name": "Dr. Selina Sharmin",
+	"as": "Assistant Professor",
+	"mail": "selina@cse.jnu.ac.bd",
+	"link": "http://jnu.ac.bd/profile/portal/web/359"
+}, 
+ 
+{
+    "img": "https://jhm69.github.io/CSE-11-JnU/male.png",
+	"name": "Dr. Md. Manowarul Islam",
+	"as": "Assistant Professor",
+	"mail": "manowar@cse.jnu.ac.bd",
+	"link": "http://jnu.ac.bd/profile/portal/web/360"
+},
+{
+    "img": "https://jhm69.github.io/CSE-11-JnU/male.png",
+	"name": "Md. Ashraf Uddin *",
+	"as": "Assistant Professor",
+	"mail": "ashraf@cse.jnu.ac.bd",
+	"link": "http://jnu.ac.bd/profile/portal/web/361"
 }
+
+
+
+
 
 
 
