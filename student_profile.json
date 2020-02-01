@@ -3,22 +3,22 @@
 
     {
 	"img": "https://jhm69.github.io/CSE-11-JnU/z_rakib.png",
-	"name": "Rakib Hassab Piyal",
+	"name": "A.M. Rakib Hasan",
 	"nick": "cr rakib",
-	"number": "728292929292",
+	"number": "01648788490",
 	"birth": "12/20/2000",
-	"blood": "-",
+	"blood": "AB+",
 	"home": "Munsiganj",
 	"present": "Armanitola, Dhaka",
-	"fb": "https://www.facebook.com/profile.php?id=100008712845190",
-	"messenger": "https://m.me/100008712845190"
+	"fb": "https://www.facebook.com/rakibhasan.peyal",
+	"messenger": "https://m.me/rakibhasan.peyal"
 	},
 
 
 
 
     {
-	"img": "https://jhm69.github.io/CSE-11-JnU/female.png",
+	"img": "https://jhm69.github.io/CSE-11-JnU/z_sima.png",
 	"name": "Mst Shima Aktar",
 	"nick": "cr mesiyar shima",
 	"number": "01580298753",
@@ -143,7 +143,7 @@
 	"messenger": "https://m.me/mahib.tawhid"
     },
     {
-    "img": "https://jhm69.github.io/CSE-11-JnU/female.png",
+    "img": "https://jhm69.github.io/CSE-11-JnU/z_ridita.png",
 	"name": "Hridita Debnath",
 	"nick": "Puja",
 	"number": "01715085087",
@@ -151,8 +151,8 @@
 	"blood": "-",
 	"home": "Mymenshingh",
 	"present": "Not Shown",
-	"fb": "no data",
-	"messenger": "Hridita Debnath" 
+	"fb": "https://m.facebook.com/",
+	"messenger": "https://m.me/" 
     },
     {
 	"img": "https://jhm69.github.io/CSE-11-JnU/male.png",
@@ -178,5 +178,41 @@
 	"present": "Kajogitola, Dhaka",
 	"fb": "https://www.facebook.com/mdnahidhasan.1999",
 	"messenger": "https://m.me/mdnahidhasan.1999" 
-    }
+    }, 
+    {
+	"img": "https://jhm69.github.io/CSE-11-JnU/z_masiat.png",
+	"name": "Mashiat Tabassum Khan",
+	"nick": "Mashiat",
+	"number": "01631408345",
+	"birth": "12/2/2001",
+	"blood": "AB+",
+	"home": "Dhaka",
+	"present": "Hazaribag, Dhaka",
+	"fb": "https://www.facebook.com/",
+	"messenger": "https://m.me/"
+	},
+    {
+	"img": "https://jhm69.github.io/CSE-11-JnU/z_labiba.png",
+	"name": "Umme Mehnaz Labiba",
+	"nick": "labiba",
+	"number": "01928327745",
+	"birth": "7/25/1999",
+	"blood": "AB+",
+	"home": "Gopalganj",
+	"present": "75, West Dhanmondi Shanker",
+    "fb": "https://www.facebook.com/mehnaz.labi",
+	"messenger": "https://m.me/mehnaz.labi"
+	},
+        {
+	"img": "https://jhm69.github.io/CSE-11-JnU/z_tanu.png",
+	"name": "Tanmay Maitra Tanu",
+	"nick": "Tanu",
+	"number": "01750409968",
+	"birth": "4/11/2001",
+	"blood": "B+",
+	"home": "Narail",
+	"present": "Lalbagh, Dhaka",
+	"fb": "https://www.facebook.com/mehnaz.labi",
+	"messenger": "https://m.me/mehnaz.labi"
+	}
 ]
