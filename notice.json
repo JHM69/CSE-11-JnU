@@ -5,16 +5,7 @@
          "image": "https://jhm69.github.io/CSE-11-JnU/welcome.png",
          "text": "Hello Good People. Welcome to this App. This is a Beta version of the original app. Here I used Github as Back-and server for this app. So whenever I update my json files on Github, only then this notice and files will be updated. Thank you. I'm still working on it. So Pray. Github Repository link: https://github.com/JHM69/CSE-11-JnU"
          },
-         {
-         "name": "JnU Authority",
-         "date": "8:41 PM. Feb 02, 2020",
-         "image": "https://jhm69.github.io/CSE-11-JnU/attention.png",
-         "text": "আগামীকাল জগন্নাথ বিশ্ববিদ্যালয়ের পরিবহন পুলের সকল বাস/যানবাহন যথারীতি চলাচল করবে। \n
-:-
-অধ্যাপক আব্দুল্লাহ আল মাসুদ স্যার!
-পরিবহন প্রশাসক, জগন্নাথ বিশ্ববিদ্যালয়।"
-         },
-
+         
 {
          "name": "CR Shima",
          "date": "7:41 PM. Feb 02, 2020",
@@ -28,11 +19,20 @@
 Thanks ❤️❤️❤️"
 },
 
+{
+         "name": "JnU Authority",
+         "date": "8:41 PM. Feb 01, 2020",
+         "image": "https://jhm69.github.io/CSE-11-JnU/attention.png",
+         "text": "আগামীকাল জগন্নাথ বিশ্ববিদ্যালয়ের পরিবহন পুলের সকল বাস/যানবাহন যথারীতি চলাচল করবে। \n
+:-
+অধ্যাপক আব্দুল্লাহ আল মাসুদ স্যার!
+পরিবহন প্রশাসক, জগন্নাথ বিশ্ববিদ্যালয়।"
+         },
 
 
 {
          "name": "CR Shima",
-         "date": "7:41 PM. Feb 02, 2020",
+         "date": "7:41 PM. Feb 01, 2020",
          "image": "https://jhm69.github.io/CSE-11-JnU/class_update.png",
          "text": "Class update (2.02.2020 Sunday)\n
 👉8.30-9.55 - Electrical class - Ujjal sir (Room 601)\n
