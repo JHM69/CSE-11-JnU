@@ -25,7 +25,7 @@
 	"birth": "12/20/2000",
 	"blood": "A+",
 	"home": "Mymensingh",
-	"present": "House no. 13/B Road 35 Gulshan 2 Dhaka 1212",
+	"present": "Not Shown",
 	"fb": "https://www.facebook.com/profile.php?id=100008712845190",
 	"messenger": "https://m.me/100008712845190"
 	},
@@ -142,7 +142,18 @@
 	"fb": "https://www.facebook.com/mahib.tawhid",
 	"messenger": "https://m.me/mahib.tawhid"
     },
-
+    {
+    "img": "https://jhm69.github.io/CSE-11-JnU/z_ridita.png",
+	"name": "Hridita Debnath",
+	"nick": "Puja",
+	"number": "01715085087",
+	"birth": "10/19/2002",
+	"blood": "-",
+	"home": "Mymenshingh",
+	"present": "Not Shown",
+	"fb": "https://m.facebook.com/",
+	"messenger": "https://m.me/" 
+    },
     {
 	"img": "https://jhm69.github.io/CSE-11-JnU/male.png",
 	"name": "Shohrab hossen",
@@ -203,5 +214,43 @@
 	"present": "Lalbagh, Dhaka",
 	"fb": "https://www.facebook.com/mehnaz.labi",
 	"messenger": "https://m.me/mehnaz.labi"
-	}
+	}, 
+	{
+	"img": "https://jhm69.github.io/CSE-11-JnU/female.png",
+	"name": "Farhana Akter Suci",
+	"nick": "Suci",
+	"number": "01726409636",
+	"birth": "07/09/2001",
+	"blood": "B+",
+	"home": "Noakhali",
+	"present": "Lokhibajar, Dhaka",
+	"fb": "https://www.facebook.com/farhanasuci.fasuci",
+	"messenger": "https://m.me/farhanasuci.fasuci"
+    },
+    {
+	"img": "https://jhm69.github.io/CSE-11-JnU/z_siam.png",
+	"name": "Mahir Musleh Siam",
+	"nick": "Siam",
+	"number": "01861500194",
+	"birth": "01/01/1999",
+	"blood": "B+",
+	"home": "Mymensingh",
+	"present": "New Eskaton,Dhaka",
+	"fb": "https://www.facebook.com/profile.php?id=100007472986811",
+	"messenger": "https://m.me/100007472986811"
+    }, 
+    {
+	"img": "https://jhm69.github.io/CSE-11-JnU/z_zakir.png",
+	"name": "Md. Zakir Hossain",
+	"nick": "Zakir",
+	"number": "01628935825",
+	"birth": "4/23/2001",
+	"blood": "A+",
+	"home": "Tangail",
+	"present": "Kagojitola,Sutrapur,Dhaka ",
+	"fb": "https://www.facebook.com/profile.php?id=100043050171046",
+	"messenger": "https://m.me/100043050171046"
+    }
+
+
 ]
