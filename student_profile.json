@@ -1,5 +1,40 @@
 [
-
+	{
+	"img": "https://jhm69.github.io/CSE-11-JnU/female.png",
+	"name": "Farhana Akter Suci",
+	"nick": "Suci",
+	"number": "01726409636",
+	"birth": "07/09/2001",
+	"blood": "B+",
+	"home": "Noakhali",
+	"present": "Lokhibajar, Dhaka",
+	"fb": "https://www.facebook.com/farhanasuci.fasuci",
+	"messenger": "https://m.me/farhanasuci.fasuci"
+    },
+    {
+	"img": "https://jhm69.github.io/CSE-11-JnU/z_siam.png",
+	"name": "Mahir Musleh Siam",
+	"nick": "Siam",
+	"number": "01861500194",
+	"birth": "01/01/1999",
+	"blood": "B+",
+	"home": "Mymensingh",
+	"present": "New Eskaton,Dhaka",
+	"fb": "https://www.facebook.com/profile.php?id=100007472986811",
+	"messenger": "https://m.me/100007472986811"
+    }, 
+    {
+	"img": "https://jhm69.github.io/CSE-11-JnU/z_zakir.png",
+	"name": "Md. Zakir Hossain",
+	"nick": "Zakir",
+	"number": "01628935825",
+	"birth": "4/23/2001",
+	"blood": "A+",
+	"home": "Tangail",
+	"present": "Kagojitola,Sutrapur,Dhaka ",
+	"fb": "https://www.facebook.com/profile.php?id=100043050171046",
+	"messenger": "https://m.me/100043050171046"
+    },
 
     {
 	"img": "https://jhm69.github.io/CSE-11-JnU/z_rakib.png",
