@@ -215,4 +215,63 @@
 	"fb": "https://www.facebook.com/mehnaz.labi",
 	"messenger": "https://m.me/mehnaz.labi"
 	}
+
+	, 
+    {
+	"img": "https://jhm69.github.io/CSE-11-JnU/female.png",
+	"name": "Najnin Sultana",
+	"nick": "Shirin",
+	"number": "01812546775",
+	"birth": "6/26/2001",
+	"blood": "B+",
+	"home": "Cumilla",
+	"present": "80/1,Moneshowr road,Jigatola,Dhanmondi,Dhaka",
+	"fb": "https://www.facebook.com/najninshirin",
+	"messenger": "https://m.me/najninshirin"
+	},
+    {
+	"img": "https://jhm69.github.io/CSE-11-JnU/male.png",
+	"name": "Nusrat Alam Srabonti",
+	"nick": "Srabonti",
+	"number": "",
+	"birth": "11/3/2001",
+	"blood": "B+",
+	"home": "Shariatpur",
+	"present": "Tongi, Gazipur",
+    "fb": "https://www.facebook.com/",
+	"messenger": "https://m.me/"
+	},
+	
+	
+    {
+	"img": "https://jhm69.github.io/CSE-11-JnU/male.png",
+	"name": "Asifuzzaman Asif",
+	"nick": "Asif",
+	"number": "01303654628",
+	"birth": "10/6/1999",
+	"blood": "B+",
+	"home": "Rajshahi",
+	"present": "Narinda, holud mosjid",
+	"fb": "https://www.facebook.com/asifuzzaman.asif.359",
+	"messenger": "https://m.me/asifuzzaman.asif.359"
+	}
+	
+	,
+	
+	
+		
+	
+    {
+	"img": "https://jhm69.github.io/CSE-11-JnU/female.png",
+	"name": "Rifah Sajida Deya",
+	"nick": "Deya",
+	"number": "01855989490",
+	"birth": "10/11/2001",
+	"blood": "A+",
+	"home": "Shekhdi,Jartabari, Dhaka",
+	"present": "Sheikhdi,Jartabari, Dhaka",
+	"fb": "https://www.facebook.com/rifah.sajida.9",
+	"messenger": "https://m.me/rifah.sajida.9"
+	}
+	
 ]
