@@ -282,11 +282,25 @@
 	"number": "01706708694",
 	"birth": "Not Shown",
 	"blood": "O+",
-	"home": ", Rangpur",
+	"home": "Rangpur",
 	"present": "Dholaikhal, Dhaka",
 	"fb": "https://www.facebook.com",
 	"messenger": "https://m.me"
 	}
+		
+    {
+	"img": "https://jhm69.github.io/CSE-11-JnU/male.png",
+	"name": "Abdur Rahman Raihan",
+	"nick": "Raihan",
+	"number": "01835854295",
+	"birth": "7/13/2000",
+	"blood": "O+",
+	"home": "Noakhali",
+	"present": "Mirpur,Dhaka",
+	"fb": "https://www.facebook.com/heigenburge",
+	"messenger": "https://m.me/heigenburge"
+	}
 	
+
 
 ]
